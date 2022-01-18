@@ -8,6 +8,8 @@
 </head>
 <body>
 	<h1>Welcome to Spring Boot WEBAPP</h1>
-	<p>Hi ${name}</p>
+	<p>ID: ${alienObj.aid}</p>
+	<p>Name: ${alienObj.aname}</p>
+	<p>Lang: ${alienObj.lang}</p>
 </body>
 </html>
