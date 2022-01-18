@@ -7,6 +7,7 @@
 <title>Welcome to the Homepage</title>
 </head>
 <body>
-
+	<h1>Welcome to Spring Boot WEBAPP</h1>
+	<p>Hi ${name}</p>
 </body>
 </html>
